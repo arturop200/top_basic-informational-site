@@ -1,0 +1,28 @@
+{
+  "name": "top_basic-informational-site",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturop200/top_basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturop200/top_basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/arturop200/top_basic-informational-site#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
